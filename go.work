@@ -1,0 +1,17 @@
+go 1.18
+
+use (
+	./arrays
+	./function_closures
+	./function_closures/Exercise
+	./function_values
+	./loops
+	./maps
+	./maps/exercise
+	./pointers
+	./range
+	./slices
+	./slices/exercise
+	./structs
+	./switch
+)
